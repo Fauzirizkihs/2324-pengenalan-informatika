@@ -87,8 +87,7 @@ http://bandungiswoonderfull.design.blog/2024/01/01/menjelaskan-jurnal-conference
 https://drive.google.com/file/d/1SMO-OVdJ5gFJMatpeI3mtO092V36Qaxe/view?usp=drive_link
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
-
+https://drive.google.com/file/d/1g5Cui8BbBFDRFHQbuUADOQ5FeshKxALn/view?usp=sharing
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/profesi-terkait-informatika-dan-profesi-yang-diminati/
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
@@ -97,16 +96,14 @@ http://bandungiswoonderfull.design.blog/2024/01/01/profesi-terkait-informatika-d
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://youtu.be/2aE7tAI6WgA?si=XppN_UuGohrKvsie
-
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/freelancer-it-upwork-toptal-freelancer-com/
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/roadmap-sh/
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 https://youtu.be/7X8C3ENG4mI?si=Pn22KcPrJCwMAPn7
-
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+https://drive.google.com/file/d/12lucKQ4kEtpxqvqEkR8Zk16CcVHqFD0D/view?usp=sharing
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1IkA1OHq2GXozxenQk-dNsCngLWPJIHI4/view?usp=sharing
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
