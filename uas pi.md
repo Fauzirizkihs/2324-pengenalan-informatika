@@ -1,404 +1,152 @@
-Hello Informatics !
-
-Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
-
-Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-Ini dasar dari semua pembangunan produk keinformatikaan
-
-
-Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
-
-Karena solusi teknologi informasi itu ditaruh di mesin komputasi
-
-Mobil pintar
-Robot mini
-Drone pawai teratur
-Smartphone
-Game
-
-
-Contoh
-
-PC
-Server
-Embedded computer
-Mobile phone
-Console
-
-
-
-
-Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
-
-Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
-
-
-Mencoba Console Sistem Operasi
-
-Karena console
-
-Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
-Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
-Program berbasis console jauh lebih cepat dari program berbasis GUI
-
-
-
-
-Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi 1
-
-Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
-Contoh di Google Colab:
-List di direktori ini ada file dan folder apa aja:
-
-!ls
-
-
-Print saya sekarang ada di posisi mana
-
-!pwd
-
-
-
-Linux Command Cheat Sheet
-
-
-Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-
-Contoh:
-
-Flowchart daftar ulang perkuliahan
-Flowchart musuh di game mengejar karakter
-Flowchart bayar pajak STNK
-Flowchart membuat paspor
-Flowchart sortir daftar mahasiswa
-Flowchart login Instagram
-
-
-
-Referensi 1
-
-Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi 1
-
-Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
-
-Beri penjelasan
-Beri komentar, bahasa indonesia
-Lebih bagus buat juga flowchart nya
-
-
-Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-
-
-IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
-Contoh:
-
-VS Code
-Unity
-Android Studio
-Notepad ++
-Vim
-
-
-
-
-Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
-
-Sebagai developer
-Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
-
-
-Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
-
-Menggunakan evaluasi tengah semester
-
-
-Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-
-Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
-
-Referensi installer PostgreSQL
-Referensi tambahan 1
-
-Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-
-Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
-Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
-Task
-
-Berhasil koneksi ke database yang sudah diinstall (PostgreSQL / MySQL)
-Mencoba membuat table baru
-Mencoba bahasa SQL untuk query data
-
-
-
-Referensi tutorial PostgreSQL
-Referensi tutorial MySQL
-Referensi installer Dbeaver
-Referensi 1
-
-Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-
-
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-Jelaskan sederhana cara kerjanya
-
-
-Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-
-Karena URL tidak hanya dipakai untuk manusia akses ke browser
-Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
-Jadi resource itu apa sih, di kata URL ini ?
-
-Referensi: 1
-
-Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi tool:
-
-https://who.is/whois/detik.com
-https://www.nslookup.io/domains/detik.com/webservers/
-
-Referensi terkait: 1 2
-
-Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial
-
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
-
-
-Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Teknik:
-
-On page - yang bisa kita lakukan di halaman HTML kita sendiri
-Off page - yang bisa kita harapkan dilakukan pihak lain terhadap kita
-
-Studi kasus:
-
-Wordpress SEO
-
-Referensi:
-
-On page SEO
-
-
-Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-
-
-Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
-
-
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
-
-
-
-Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
-Tips:
-
-Cari di Google: web hosting murah bulanan indonesia
-Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
-
-
-Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
-
-Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
-
-Contoh:
-
-Kumpulan public API untuk dicoba2
-CatFact
-
-
-Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
-
-Karena ini tools utama untuk mendiagnosis halaman web, memanipulasi halaman web, otomasi, kondisi respon dari server, dsb.
-
-
-Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
-
-Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
-
-Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
-
-Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
-
-Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
-
-
-Starlogo
-Netlogo
-
-
-Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
-Referensi:
-
-https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
-Gambar
-
-
-Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
-
-Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
-
-Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
-Referensi:
-
-https://s.id/ds-braga
-
-
-Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
-Referensi:
-
-Looker Studio
-
-
-Mencoba Data Visualization Dengan Code [v] ⭐⭐
-
-Referensi:
-
-ChartJS
-
-
-Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
-Referensi:
-
-Huggingface
-Contoh penggunaan di Google Colab
-
-
-Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
-
-https://www.kaggle.com
-
-
-Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
-
-Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
-Referensi:
-
-https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
-
-
-Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
-Referensi:
-
-https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
-
-
-Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
-
-Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
-
-https://ieeexplore.ieee.org/Xplore/home.jsp
-https://arxiv.org/
-https://www.sciencedirect.com/
-https://dl.acm.org/
-https://dblp.org/
-Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
-
-
-
-Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
-
-Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
-
-Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
-
-Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-
-
-Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
-
-Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
-
-Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
-Referensi:
-
-https://roadmap.sh/
-
-
-Eksplorasi Top Github Project yang Diminati ⭐⭐
-
-Referensi:
-
-https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
-
-
-Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
-
-Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-
-Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
-
-Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/19/computational-thinking/
+## Jenis jenis Mesin Komputasi ⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/26/jenis-jenis-mesin-komputasi/
+## Mengktifkan dan Mencoba Google Colab⭐⭐⭐⭐⭐
+- Google Collaboratory atau Google Colab adalah platform berbasis cloud untuk menulis, menjalankan, dan berbagi kode Python melalui web browser
+Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang bekerja di bidang data science dan machine learning dengan menyediakan environment komputasi yang fleksibel dan mudah diakses tanpa biaya. https://youtu.be/aqpBm3soRpg
+## Mencoba Console Sistem Operasi⭐⭐⭐⭐
+-  disini saya akan menggunakan cmd atau bisa disebut juga dengan Command Prompt,cmd adalah salah satu aplikasi command line interpreter yang ada di sistem operasi windows perintah cmd berfungsi untuk memberikan berbagai perintah kepada komputer tanpa perlu menavigasi program berbasis GUI seperti file Explorer,Control panel,dan sebagainya https://youtu.be/bWYl4hg5HVQ
+## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+  https://youtu.be/8Tfb6y0cs34?si=5LLR74Fadbel19Ge
+## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+sebelumnya saya disini untuk membuatnya menggunakan draw.io,drow.io adalah  sebuah website dengan konsep desain khusus yang dapat membuat Anda bisa menggambar diagram via online. dalam pembuatan algoritma tersebut saya akan membuat flowchart mengirim surat.
+-  <img width="960" alt="Screenshot 2023-12-28 154201" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/e40a8e73-3757-4574-8d10-97f2164a581a">
+## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab, dan telah diterjemahkan ke lebih dari 60 bahasa, termasuk Bahasa Indonesia.dan disini saya akan membuat game sederhana menggunakan scratch
+- <img width="960" alt="Screenshot 2023-12-28 172206" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/fe5d851d-6b68-42de-85b0-3d135cd961e9">
+referensi : https://youtu.be/1jHvXakt1qw?si=7nXCH84ZKig7C7UT
+## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+Algoritma bubble sort adalah algoritma pengurutan data yang sederhana dan mudah dipahami. Cara kerjanya adalah dengan membandingkan dua elemen array secara berurutan, mulai dari elemen pertama sampai elemen terakhir. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya. Proses ini terus dilakukan sampai seluruh elemen array terurut.
+<img width="960" alt="Screenshot 2023-12-28 175121" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/2bfd8d77-e5b2-4227-a725-961d04011a4c">
+Output dari program di atas adalah sebagai berikut:
+-  Array sebelum diurutkan:
+10 5 2 7 1 8
+-  Array setelah diurutkan:
+1 2 5 7 8 10
+## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+disini saya coba mendemonstrasikan nya dengan aplikasi visual studio code (vscode).visual studio code adalah perangkat lunak penyunting kode-sumber buatan Microsoft untuk Linux, macOS, dan Windows. Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, pengawakutuan, dan Git
+- https://youtu.be/01HtyB99dpI
+## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan.
+-  https://youtu.be/H1mXcr8R9Z4
+-  https://www.hackerrank.com/profile/agunggpermanaof1
+## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuatan-aplikasi-game-pada-platform-mobile-desktop-web-browser/
+## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+-   basis data atau data base adalah kumpulan data yang terorganisir, yang umumnya disimpan dan diakses secara elektronik dari suatu sistem komputer. Pada saat pangkalan data menjadi semakin kompleks, maka pangkalan data dikembangkan menggunakan teknik perancangan dan pemodelan secara formal.
+-  https://youtu.be/hOXHoX6uLg0
+-  selain database tersebut ada beberapa database yang lain,yaitu seperti MySQL, XAMPP, Oracle Database, Microsoft SQL Server, dan SQLite.
+## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+https://youtu.be/RNd_LjixmJk
+## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/30/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
+## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/30/uniform-resource-locator-url/
+## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+disini saya mencobanya memakai whois 
+https://youtu.be/qNpBtOQ5FDU
+## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+https://youtu.be/fYEjaZ-RXAE
+## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/30/penerapan-teknik-search-engine-optimization-seo-pada-html/
+## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-file-json/
+## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+disini saya menggunakan untuk meng hosting yaitu dengan 000WebHost
+https://agungsport.000webhostapp.com/
+<img width="960" alt="Screenshot 2023-12-29 165833" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/303f7ba3-fbde-482f-9c25-a4db6b9a40a7">
+<img width="960" alt="Screenshot 2023-12-29 165814" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/0798a710-dc8f-4f5f-909a-4ca0b62eaf45">
+## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://agungsport.000webhostapp.com/
+## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-http-request-dan-web-api-dengan-hoppscotch-postman/
+## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/penggunaan-developer-tools-pada-web-browser-firefox-chrome/
+https://youtu.be/p724t6gqEHU
+## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/layanan-cloud-service-yang-diminati-gcp-aws-azure/
+## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/
+## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+![LIMITED TIME ONLY](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/334ffc89-de7b-4ecb-98ab-ede1c4d5fac9)
+https://youtu.be/-CqU90cnif4
+## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://youtu.be/-CqU90cnif4
+## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
+## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://drive.google.com/drive/folders/11QcbjGDQo8TIX_eAlz16_rYmPxSGqHDz?usp=drive_link
+## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
+## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
+## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/28/memproses-file-big-data-orc-menggunakan-google-colab/
+## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/mencoba-data-visualization-dengan-tools/
+## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/mencoba-data-visualization-dengan-code/
+## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/hungging-face/
+-  https://huggingface.co/gunggpermna
+## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐ ⭐⭐
+-  https://www.kaggle.com/agungpermanaa
+-  https://youtu.be/I5Z5Hg9U3KA
+## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+nahh disini ada contoh gambar untuk mencoba protokol komunikasi IoT MQTT
+<img width="960" alt="Screenshot 2023-12-28 094020" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/cc6b8e16-1019-4a5c-85b4-931bf4306d5b">
+https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-mqtt/   
+## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+Google Colab adalah layanan cloud, ditawarkan oleh Google (gratis), berdasarkan Jupyter Notebook. Platform ini memungkinkan Anda melatih model Machine Learning langsung di cloud dan semuanya gratis.
+Beberapa keunggulan Google Colab antara lain kemudahan instalasi dan berbagi Notebook antar pengguna secara real time (seperti dokumen lain di G-cloud suite). Namun, memuat file csv memerlukan penulisan kode. Saya akan menunjukkan dua cara memuat file csv ke Colab sebagai Pandas DataFrame.
+https://youtu.be/n9wmqo4GT50
+
+## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/28/memproses-file-big-data-orc-menggunakan-google-colab/
+
+## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/28/menjelaskan-jurnal-conference-artikel-grade-jurnal/
+## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
+<img width="960" alt="Screenshot 2023-12-28 101011" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ee569efe-e152-4043-b93e-7a7f9404b575">
+
+## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+disini saya telah menonton Video Presentasi Tugas Akhir.di dalam video tersebut dibawakan oleh seorang mahasiswi yang bernama Tita Rahmasari dari UNIVERSITAS BHAYANGKARA JAKARTA RAYA dengan topik atau judulnya adalah Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi.
+- https://youtu.be/yvJ1QF6foX8?si=rc_ssLp0w0bAJonv
+- <img width="960" alt="Screenshot 2023-12-28 105613" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6a3f5b80-64b7-4f6b-9e4f-094ec23e8140">
+## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
+## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![WhatsApp Image 2023-12-27 at 22 34 39_d5c57f0c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6b235318-8f04-411a-b973-fba930121275)
+-  https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-bahasa-inggris/
+## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+![WhatsApp Image 2023-12-27 at 22 34 39_d6ea905c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/c0ca8179-c44e-45fb-bed3-2e14c7da3187)
+https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-berbicara-bahasa-inggris/
+## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/27/lowongan-pekerjaan-it/
+## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/27/lowongan-freelancer-it/
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+saya disini memiliki topik Roadmap.sh yang diminati dan saya akan mempejarinya sampai bisaa Roadmap tersebut adalah Frontend Develover,Backend Develover,dan Fullstak Develover.karena disini saya ingin menggeluti di bidang web develover
+- https://roadmap.sh/frontend
+  <img width="960" alt="Screenshot 2023-12-27 175740" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/f65907fe-9bd5-450b-8244-48e9fdf30af3">
+- https://roadmap.sh/backend
+  <img width="960" alt="Screenshot 2023-12-27 175759" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/97fd45c6-1dc7-4856-8093-10d5504dfdea">
+- https://roadmap.sh/full-stack
+  <img width="960" alt="Screenshot 2023-12-27 180333" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/e0b0fac3-cd40-44b2-a396-2c25f90713cc">
+- https://agunggpermanaofficial.wordpress.com/2023/12/27/web-develover/
+## Eksplorasi Top Github Project yang Diminati ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/27/top-github-project-yang-diminati/
+## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+sebelumnya apaa itu Linkedin? Linkedin adalah jaringan profesional online terbesar di dunia. Anda bisa menggunakan LinkedIn untuk menemukan lowongan dan kesempatan magang, terhubung dan memperkuat hubungan profesional, dan mempelajari keahlian yang dibutuhkan demi kesuksesan karier.
+https://www.linkedin.com/in/agung-permana-06b111292/
+## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+disini saya mencobanya dengan membuka sebuah website dengan nama github readme generator
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+<img width="960" alt="Screenshot 2023-12-27 201128" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ca3becfd-6718-4b34-8370-159baffaf92c">
+https://github.com/gunggpermanaa/my-profil
+## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
+## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/27/review-buku-social-media-dan-social-network/
