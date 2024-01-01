@@ -31,13 +31,13 @@ https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
+https://drive.google.com/file/d/1lXisok39p9FRuyC1tGapCrazqPSphMSX/view?usp=drive_link
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/1D2HicTxZkDjsV2GJkNowQbJxh4ZxhF6p/view?usp=drive_link
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
@@ -53,10 +53,11 @@ https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+https://drive.google.com/file/d/1RHwWi7IQljTVrudo0-VPTtkQSgsbNPKV/view?usp=drive_link
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://drive.google.com/file/d/1dzCMg_F2bgosbsT4WbIuAqS1U93r9mzk/view?usp=drive_link
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -65,13 +66,13 @@ https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
--  
+-  https://drive.google.com/file/d/1KmhAB-0IDgEfTAXYeGfFF6rUXpVEhr8T/view?usp=drive_link
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
--  
+-  https://drive.google.com/file/d/1Ld5zHnklKFo5_lYhi4xONxKkG19-9T2o/view?usp=drive_link
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
--  
+-  https://drive.google.com/file/d/1-oSQt0JNszroPx50bFjvVXmpQSWqNi9p/view?usp=drive_link
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐ ⭐⭐
-- 
+- https://drive.google.com/file/d/149fpE1DF4xqZhAHjBo6UcHEMYpISUmAP/view?usp=drive_link
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
