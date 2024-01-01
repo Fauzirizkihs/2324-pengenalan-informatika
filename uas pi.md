@@ -7,7 +7,7 @@
 ## Mencoba Console Sistem Operasi cmd  ⭐⭐⭐⭐
 https://youtu.be/t_xzjuJKQHk?si=Z-UPD8Gj6cb4YSeE
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1UukkQOYK-_xjgT4M1lXvF6W2SPqkJVBB/view?usp=sharing
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![flowcart drawio](https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/0dad267f-82ea-4430-9527-42a9513e400c)
 
@@ -108,7 +108,7 @@ https://youtu.be/7X8C3ENG4mI?si=Pn22KcPrJCwMAPn7
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1IkA1OHq2GXozxenQk-dNsCngLWPJIHI4/view?usp=sharing
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
