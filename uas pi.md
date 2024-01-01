@@ -20,20 +20,20 @@ https://youtu.be/YzERkfv6RZI?si=V1aXC5-Uug5CQDqs
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://youtu.be/qfsaSfTc2Zo?si=srh7qpT_QmzEr_WM
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1oEmK90uFNawazwbs5Lsb3w9MHhIp200H/view?usp=sharing
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1SJvDxemKDwJ_9ga-fXp-0bmWx0AFWBH5/view?usp=sharing
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 https://drive.google.com/file/d/1lXisok39p9FRuyC1tGapCrazqPSphMSX/view?usp=drive_link
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/1SJvDxemKDwJ_9ga-fXp-0bmWx0AFWBH5/view?usp=sharing
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
