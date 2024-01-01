@@ -29,7 +29,7 @@ https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/1SJvDxemKDwJ_9ga-fXp-0bmWx0AFWBH5/view?usp=sharing
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
+https://drive.google.com/file/d/1rrOdptgKyYa4IrqpCi3agN-IWv6KARkX/view?usp=sharing
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 https://drive.google.com/file/d/1lXisok39p9FRuyC1tGapCrazqPSphMSX/view?usp=drive_link
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
