@@ -45,9 +45,9 @@ https://drive.google.com/file/d/1D2HicTxZkDjsV2GJkNowQbJxh4ZxhF6p/view?usp=drive
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
+http://bandungiswoonderfull.design.blog/2024/01/01/tools-untuk-belajar-bahasa-inggris/
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
+http://bandungiswoonderfull.design.blog/2024/01/01/layanan-cloud-service-yang-diminati-gcp-aws-azure/
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
@@ -55,7 +55,7 @@ https://drive.google.com/file/d/1D2HicTxZkDjsV2GJkNowQbJxh4ZxhF6p/view?usp=drive
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 https://drive.google.com/file/d/1RHwWi7IQljTVrudo0-VPTtkQSgsbNPKV/view?usp=drive_link
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+https://drive.google.com/file/d/1MjWV3eCbW_i7S4VrkhDIHAraI43RYIyK/view?usp=sharing
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 https://drive.google.com/file/d/1dzCMg_F2bgosbsT4WbIuAqS1U93r9mzk/view?usp=drive_link
 
@@ -74,7 +74,7 @@ https://drive.google.com/file/d/1dzCMg_F2bgosbsT4WbIuAqS1U93r9mzk/view?usp=drive
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐ ⭐⭐
 - https://drive.google.com/file/d/149fpE1DF4xqZhAHjBo6UcHEMYpISUmAP/view?usp=drive_link
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
+https://drive.google.com/file/d/1RHwWi7IQljTVrudo0-VPTtkQSgsbNPKV/view?usp=sharing
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 
@@ -84,7 +84,7 @@ https://drive.google.com/file/d/1dzCMg_F2bgosbsT4WbIuAqS1U93r9mzk/view?usp=drive
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1SMO-OVdJ5gFJMatpeI3mtO092V36Qaxe/view?usp=drive_link
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
