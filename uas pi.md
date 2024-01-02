@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1D2HicTxZkDjsV2GJkNowQbJxh4ZxhF6p/view?usp=drive
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/1fS0zWPT6_-ZAY8P9NLjG7iH6QN_696vZ/view?usp=sharing
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://drive.google.com/file/d/1ZPA2GnREUKTCU5BgGWZGAeyCO5oPzjMn/view?usp=sharing
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
