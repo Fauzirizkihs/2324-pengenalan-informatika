@@ -16,6 +16,8 @@ https://drive.google.com/file/d/1UukkQOYK-_xjgT4M1lXvF6W2SPqkJVBB/view?usp=shari
 ![Uploading Screenshot 2024-01-02 145719.png…]()
 <img width="960" alt="Screenshot 2024-01-02 145731" src="https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/f687a933-e127-4087-9090-9f63bc8c1a2e">
 <img width="960" alt="Screenshot 2024-01-02 145742" src="https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/37604774-ca94-4360-8872-260dc41b1472">
+<img width="960" alt="Screenshot 2024-01-02 150159" src="https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/59016df0-ae69-46e0-a3d9-1678d8020316">
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/YzERkfv6RZI?si=V1aXC5-Uug5CQDqs
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
