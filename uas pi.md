@@ -52,7 +52,7 @@ http://bandungiswoonderfull.design.blog/2024/01/01/tools-untuk-belajar-bahasa-in
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/layanan-cloud-service-yang-diminati-gcp-aws-azure/
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
+http://bandungiswoonderfull.design.blog
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
