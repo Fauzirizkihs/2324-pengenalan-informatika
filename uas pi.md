@@ -36,11 +36,11 @@ https://drive.google.com/file/d/1lXisok39p9FRuyC1tGapCrazqPSphMSX/view?usp=drive
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 https://drive.google.com/file/d/1SJvDxemKDwJ_9ga-fXp-0bmWx0AFWBH5/view?usp=sharing
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/1YR7LLWEnPFUhDefSZ6XMWKaxDIg9zJnj/view?usp=sharing
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://drive.google.com/file/d/1D2HicTxZkDjsV2GJkNowQbJxh4ZxhF6p/view?usp=drive_link
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/1jb3T7O79sh6gH5uGbXfG97-5Ss4rpStL/view?usp=sharing
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 https://drive.google.com/file/d/1fS0zWPT6_-ZAY8P9NLjG7iH6QN_696vZ/view?usp=sharing
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
