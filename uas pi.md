@@ -10,11 +10,12 @@ https://youtu.be/t_xzjuJKQHk?si=Z-UPD8Gj6cb4YSeE
 https://drive.google.com/file/d/1UukkQOYK-_xjgT4M1lXvF6W2SPqkJVBB/view?usp=sharing
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![flowcart drawio](https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/0dad267f-82ea-4430-9527-42a9513e400c)
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
  https://youtu.be/6wYCoyHRMOE?si=ue6aoc7e6qIyJx3w
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
+![Uploading Screenshot 2024-01-02 145719.png…]()
+<img width="960" alt="Screenshot 2024-01-02 145731" src="https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/f687a933-e127-4087-9090-9f63bc8c1a2e">
+<img width="960" alt="Screenshot 2024-01-02 145742" src="https://github.com/Fauzirizkihs/2324-pengenalan-informatika/assets/144639700/37604774-ca94-4360-8872-260dc41b1472">
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/YzERkfv6RZI?si=V1aXC5-Uug5CQDqs
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
@@ -63,7 +64,7 @@ https://drive.google.com/file/d/1vhlzqW1_on7gIfLKdU-TPkEqKWrHK7bG/view?usp=shari
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/1BVy_3t6rfh8B3cV0QvUNp-wdQbHIfGz3/view?usp=sharing
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+http://bandungiswoonderfull.design.blog/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 -  https://drive.google.com/file/d/1KmhAB-0IDgEfTAXYeGfFF6rUXpVEhr8T/view?usp=drive_link
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
@@ -75,16 +76,13 @@ https://drive.google.com/file/d/1BVy_3t6rfh8B3cV0QvUNp-wdQbHIfGz3/view?usp=shari
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 https://drive.google.com/file/d/1RHwWi7IQljTVrudo0-VPTtkQSgsbNPKV/view?usp=sharing
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
-
+http://bandungiswoonderfull.design.blog/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
-
+http://bandungiswoonderfull.design.blog/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/1SMO-OVdJ5gFJMatpeI3mtO092V36Qaxe/view?usp=drive_link
-
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 https://drive.google.com/file/d/1g5Cui8BbBFDRFHQbuUADOQ5FeshKxALn/view?usp=sharing
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
