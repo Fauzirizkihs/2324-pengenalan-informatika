@@ -26,7 +26,6 @@ https://youtu.be/qfsaSfTc2Zo?si=srh7qpT_QmzEr_WM
 https://drive.google.com/file/d/1oEmK90uFNawazwbs5Lsb3w9MHhIp200H/view?usp=sharing
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
@@ -90,9 +89,9 @@ https://drive.google.com/file/d/1g5Cui8BbBFDRFHQbuUADOQ5FeshKxALn/view?usp=shari
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 http://bandungiswoonderfull.design.blog/2024/01/01/profesi-terkait-informatika-dan-profesi-yang-diminati/
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+https://drive.google.com/file/d/1VuolL2x2O5ipD_H-9LqELVdzc9AC2TkV/view?usp=drive_link
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-
+https://drive.google.com/file/d/1EJzcfT8fu4p1ZoAteqQvt0VmZvHOWZY0/view?usp=sharing
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://youtu.be/2aE7tAI6WgA?si=XppN_UuGohrKvsie
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
