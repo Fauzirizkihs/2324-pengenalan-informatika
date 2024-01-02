@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1oEmK90uFNawazwbs5Lsb3w9MHhIp200H/view?usp=shari
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/JL_yrSH_jQQ?si=JBOSIhL0K4-wQHNG
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
+https://drive.google.com/file/d/195dkviZ6XnTOiHHKCINZNYtKd6p6W1i0/view?usp=sharing
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://drive.google.com/file/d/1SJvDxemKDwJ_9ga-fXp-0bmWx0AFWBH5/view?usp=sharing
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
