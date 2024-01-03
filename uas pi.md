@@ -106,4 +106,4 @@ https://drive.google.com/file/d/1IkA1OHq2GXozxenQk-dNsCngLWPJIHI4/view?usp=shari
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+http://bandungiswoonderfull.design.blog/2024/01/03/pengenalan-komputer/
